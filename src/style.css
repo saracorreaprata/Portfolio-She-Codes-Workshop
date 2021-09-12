@@ -116,4 +116,11 @@
     text-decoration: none;
     color: white;
   }
-  
+
+  @media (max-width: 576px){
+    .app-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+}
+  }
